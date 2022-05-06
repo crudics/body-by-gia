@@ -18,6 +18,7 @@
     ],
     "ios": {
       "supportsTablet": true,
+      "buildNumber": "1.0.0",
       "bundleIdentifier": "com.crudics.app"
     },
     "android": {
@@ -25,7 +26,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.crudics.app"
+      "package": "com.crudics.app",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
